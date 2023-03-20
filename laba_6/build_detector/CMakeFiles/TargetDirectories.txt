@@ -1,0 +1,3 @@
+/Users/kirillzhukov/Desktop/kmbo--20/lab_4-10/laba_6/build_detector/CMakeFiles/laba_6.dir
+/Users/kirillzhukov/Desktop/kmbo--20/lab_4-10/laba_6/build_detector/CMakeFiles/edit_cache.dir
+/Users/kirillzhukov/Desktop/kmbo--20/lab_4-10/laba_6/build_detector/CMakeFiles/rebuild_cache.dir
